@@ -1,6 +1,6 @@
 # Memory-Allocator
 
-Pentru usurarea gestionarii blcurilor din arena am considerat utila
+Pentru usurarea gestionarii blocurilor din arena am considerat utila
 utilizarea unei structuri, block, ce contine indexul de inceput al blocului,
 indexul zonei de date a blocului, numarul de octeti ai zonei de date, indexul
 blocului anterior, indexul blocului urmator, adresa structurii block
